@@ -142,7 +142,7 @@ aux 7=a4
 p step=0
 
 
-@ total=260000, xlo=0, xhi=5000, ylo=0, yhi=10, bounds=10e30, MAXSTOR=1300000,xp=vs, yp=mk,nout=2500, dt=0.05,
+@ total=260000, xlo=0, xhi=5000, ylo=0, yhi=10, bounds=10e30, MAXSTOR=1300000,xp=v, yp=mk,nout=2500, dt=0.05,
 
 @ output=test.txt
 #@ RANGE=1, RANGEOVER=step, RANGESTEP=1100, RANGELOW=0, RANGEHIGH=1100, RANGERESET=yes, RANGEOLDIC=yes, output=test1
